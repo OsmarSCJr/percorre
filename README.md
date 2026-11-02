@@ -1,3 +1,5 @@
+<img src="logo.svg" width="72" height="72" alt="Percorre">
+
 # Percorre
 
 Sensor de corridas boas para motoristas de aplicativo. O Percorre lê cada oferta, confere valor por
